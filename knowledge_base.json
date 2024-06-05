@@ -1,0 +1,6 @@
+{
+  "faqs": [
+    {"question": "What are your working hours?", "answer": "We operate from 9 AM to 6 PM, Monday to Friday."},
+    {"question": "How can I track my order?", "answer": "You can track your order using the tracking number sent to your email."}
+  ]
+}
